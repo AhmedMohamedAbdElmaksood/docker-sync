@@ -33,7 +33,7 @@ namespace CommandsService
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "CommandsService", Version = "v1" });
             });
 
-            Console.WriteLine("This is CommandService updated for the second time");
+            Console.WriteLine("This is CommandService updated for the second t");
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
